@@ -1,0 +1,8 @@
+LisanNova source bundle status
+
+Prepared source: yes
+Android APK built in this environment: no
+Real-device testing: no
+End-to-end quality certification: no
+
+This is alpha source. It includes local Whisper transcription and optional user-configured translation followed by subtitle burn-in. Without a configured translation endpoint, it exports Turkish SRT only; it does not claim to create an Arabic MP4 in offline mode.
