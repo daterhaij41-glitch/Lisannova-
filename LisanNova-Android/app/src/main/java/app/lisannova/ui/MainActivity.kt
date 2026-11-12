@@ -291,7 +291,7 @@ class MainActivity : AppCompatActivity() {
         hint = hintText
         setText(initialValue)
         textSize = 13f
-        singleLine = true
+        setSingleLine(true)
     }
 
     private fun refreshSettingsLabel() {
